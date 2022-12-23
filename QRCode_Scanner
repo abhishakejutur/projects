@@ -1,4 +1,4 @@
-# qrcode_scanner project
+# qrcode_scanner project (python)
 
 import cv2
 from imutils.video import VideoStream
