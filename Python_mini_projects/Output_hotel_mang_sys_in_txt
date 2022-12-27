@@ -1,0 +1,86 @@
+WELCOME TO HOTEL AJ_Hotel
+1 Booking
+2 Rooms Info
+3 Room Service(Menu Card)
+4 Payment
+5 Record
+0 Exit
+->1
+BOOKING ROOMS
+Name: Jeevana
+Phone No.: 5555522222 
+Address: 123, xyz street, city 
+Check-In: 12/03/2020 
+Check-Out: 15/03/2020 
+—-SELECT ROOM TYPE—- 
+1. Standard Non-AC 
+2. Standard AC 
+3. 3-Bed Non-AC 
+4. 3-Bed AC 
+Press 0 for Room Prices 
+->3 
+Room Type- 3-Bed Non-AC 
+Price- 4500
+***ROOM BOOKED SUCCESSFULLY***
+Room No. – 321 
+Customer Id – 45 
+0-BACK 
+->0 
+WELCOME TO HOTEL AJ_Hotel
+1 Booking
+2 Rooms Info
+3 Room Service(Menu Card)
+4 Payment
+5 Record
+0 Exit
+->4
+Phone Number: 5555522222 
+Payment 
+——————————– 
+MODE OF PAYMENT 
+1- Credit/Debit Card 
+2- Paytm/PhonePe 
+3- Using UPI 
+4- Cash 
+-> 4
+Amount: 13500
+Pay For AJ_Hotel 
+(y/n) 
+->y
+——————————– 
+Hotel AJ_Hotel
+——————————– 
+Bill 
+——————————– 
+Name: Jeevana 
+Phone No.: 5555522222 
+Address: 123, xyz street, city 
+Check-In: 12/03/2020 
+Check-Out: 15/03/2020 
+Room Type: 3-Bed Non-AC 
+Room Charges: 13500 
+Restaurant Charges: 0 
+——————————–
+Total Amount: 13500 
+——————————– 
+Thank You 
+Visit Again 🙂 
+——————————–
+0-BACK 
+->0 
+WELCOME TO HOTEL AJ_Hotel
+1 Booking
+2 Rooms Info
+3 Room Service(Menu Card)
+4 Payment
+5 Record
+0 Exit
+->5
+*** HOTEL RECORD ***
+| Name | Phone No. | Address | Check-In | Check-Out | Room Type | Price | 
+———————————————————————————————————————- 
+| Jeevana | 5555522222 | 123, xyz street, city | 12/03/2020 | 15/03/2020 | 3-Bed Non-AC | 4500 
+———————————————————————————————————————- 
+0-BACK 
+-> 
+ 
