@@ -54,7 +54,7 @@ def Home():
 	else:
 		exit()
 
-# Function used in booking
+# Function used in booking.
 
 def date(c):
 	
