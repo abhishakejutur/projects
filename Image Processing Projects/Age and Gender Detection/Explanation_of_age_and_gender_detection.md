@@ -1,13 +1,15 @@
 > # **Age and Gender detection :** 
 >
 > - ## **Objective :**
->       To build a gender and age detector that can approximately guess the gender and age of the person (face) in a picture using the deep learning
+>       To build a gender and age detector that can approximately guess the gender and age of the person (face) in a picture 
+>       using the deep learning
 > - ## **About project :**
 >       In this project , we will use deep learning to accurately identify the gender and age of a person from a single of image.
 >       • We will trained model for this particular target.
 >       • The predicted gender may be one of “male” and “female”, and the predicted age one of the following ranges- 
 >         (0 – 2), (4 – 6), (8 – 12), (15 – 20), (25 – 32), (38 – 43), (48 – 53), (60 – 100)
->       • It is very difficult to accurately guess an exact age from a single image because of factors like makeup, lighting, obstructions, and facial expressions. 
+>       • It is very difficult to accurately guess an exact age from a single image because of factors like makeup, lighting, 
+>         obstructions, and facial expressions. 
 >         And so, we make this a classification problem instead of making it one of regression.
 > - ## **Steps of project :**
 >       • Detect the faces
