@@ -12,13 +12,9 @@
 >         obstructions, and facial expressions. 
 >         And so, we make this a classification problem instead of making it one of regression.
 > - ## **NN : **
-
-   ![IMG_Simple_Neural_network](https://user-images.githubusercontent.com/91953148/209838835-7dac35ef-22cf-4612-b291-4b3cd396c9f8.png)
-
+>   ![IMG_Simple_Neural_network](https://user-images.githubusercontent.com/91953148/209838835-7dac35ef-22cf-4612-b291-4b3cd396c9f8.png)
 > - ## **CNN : **
-
-   ![IMG_CNN](https://user-images.githubusercontent.com/91953148/209839369-4a40b8a6-5ac0-4900-b7f0-d4c6c57b3511.png)
-
+>   ![IMG_CNN](https://user-images.githubusercontent.com/91953148/209839369-4a40b8a6-5ac0-4900-b7f0-d4c6c57b3511.png)
 > - ## **Steps of project :**
 >       • Detect the faces
 >       • Classify into male /female
