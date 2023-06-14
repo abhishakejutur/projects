@@ -6,7 +6,7 @@ eye_dectector1 = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_eye.
 
 
 # reading the input image now
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 
 while cap.isOpened():
     _, frame = cap.read()
