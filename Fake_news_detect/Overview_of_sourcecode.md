@@ -161,6 +161,7 @@ confusion_matrix(y_test,y_pred, labels=['FAKE','REAL'])
 
 
 
+
   >>  array([[585,  53],
            [ 43, 586]], dtype=int64)
 
