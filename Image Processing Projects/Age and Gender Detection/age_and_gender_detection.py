@@ -45,6 +45,7 @@ genderNet=cv2.dnn.readNet(genderModel,genderProto)
 
 video=cv2.VideoCapture(0)
 padding=20
+
 while cv2.waitKey(1)<0:
     hasFrame,frame=video.read()
     if not hasFrame:
