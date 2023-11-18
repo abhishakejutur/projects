@@ -1,6 +1,6 @@
 > # **Face Detection Outputs :**
 > > # **Face Count :** (face_count.py)
-> > ![output_face_count](https://github.com/abhishakejutur/projects/assets/91953148/4b40d28c-a918-4c0e-9595-85a3e9dd20f5)
+> > ![Screenshot (38)](https://github.com/abhishakejutur/projects/assets/91953148/a29b352f-1b31-4a70-8b27-fa055e00193c)
 > > - **Code :**
 > >  [Image Processing Projects/Face Detection/face_count.py](https://github.com/abhishakejutur/projects/blob/qrcode_scanner/Image%20Processing%20Projects/Face%20Detection/face_count.py)
 > >  # **Face with Eye Detection In Real Time :**
